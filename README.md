@@ -6,7 +6,7 @@ O Walk Buddy é um aplicativo desenvolvido para facilitar a vida de donos de pet
 
 ## Figma
 
-Acesse o [protótipo do aplicativo no Figma](https://www.figma.com/file/fX998ysTIxmYx8jaSuDbZk/Walk-Buddy?type=design&node-id=0-1&mode=design&t=Alj65H2E1sFbetOa-0).
+Acesse o [protótipo do aplicativo no Figma]([https://www.figma.com/file/fX998ysTIxmYx8jaSuDbZk/Walk-Buddy?type=design&node-id=0-1&mode=design&t=Alj65H2E1sFbetOa-0](https://www.figma.com/proto/fX998ysTIxmYx8jaSuDbZk/Walk-Buddy?type=design&node-id=33-3&t=CIKvOEph0gIx8xA2-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A3&mode=design)).
 
 ## Requisitos Funcionais (RFs)
 
