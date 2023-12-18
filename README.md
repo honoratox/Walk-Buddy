@@ -1,5 +1,3 @@
-# Walk-Buddy
-
 # Walk Buddy - Especificação dos Requisitos do Software
 
 ## Introdução
@@ -8,7 +6,7 @@ O Walk Buddy é um aplicativo desenvolvido para facilitar a vida de donos de pet
 
 ## Figma
 
-Acesse o [protótipo do aplicativo no Figma](https://www.figma.com/seu-link-aqui).
+Acesse o [protótipo do aplicativo no Figma]([https://www.figma.com/seu-link-aqui](https://www.figma.com/file/fX998ysTIxmYx8jaSuDbZk/Walk-Buddy?type=design&node-id=0-1&mode=design&t=Alj65H2E1sFbetOa-0)).
 
 ## Requisitos Funcionais (RFs)
 
